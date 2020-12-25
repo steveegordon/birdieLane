@@ -1,0 +1,17 @@
+.main {
+  width: 100%;
+}
+
+#mainlogo {
+  height: 25vh;
+}
+
+h1 {
+  font-size: 120px;
+  text-align: center;
+}
+
+.placeholder {
+  text-align: center;
+}
+
